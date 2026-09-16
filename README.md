@@ -1,16 +1,24 @@
-## Hi there 👋!
+# Hi there 👋!
 
-<!--
-**amanpawar-cse/amanpawar-cse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 CSE Student
+- 🌱 Currently learning Web Development & Programming
+- 💻 Interested in Software Development
+- 🚀 Building projects and improving my coding skills
+- 📚 Always learning something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 💻 C / C++ / Python
+- 🌐 HTML / CSS / JavaScript
+- 🗄️ Git & GitHub
+- 🔧 VS Code
+
+## 📌 Projects
+
+Coming soon... 🚀
+
+## 📫 Connect With Me
+
+- GitHub: @amanpawar-cse
